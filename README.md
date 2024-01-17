@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayounghoyos&label=Profile%20views&color=0e75b6&style=flat" alt="jayounghoyos" /> </p>
 
-<img src="https://github-profile-trophy.vercel.app?username=jayounghoyos&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayounghoyos" alt="jayounghoyos" /></a> </p>
 
 - 🌱 I’m currently learning **AI, LLM, python, React**
@@ -25,6 +24,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayounghoyos&show_icons=true&locale=en" alt="jayounghoyos" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayounghoyos&" alt="jayounghoyos" /></p>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jayounghoyos&theme=transparent&hide_border=true" alt="GitHub Streak" /></a>
 
 # jayounghoyos

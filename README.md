@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Juan Andrés Young Hoyos</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
+<h4>Im a curious person interested in the robotics projects, programing and AI. specially arduino and AI problem solvers </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayounghoyos&label=Profile%20views&color=0e75b6&style=flat" alt="jayounghoyos" /> </p>
 
+<img src="https://github-profile-trophy.vercel.app?username=jayounghoyos&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayounghoyos" alt="jayounghoyos" /></a> </p>
 
 - 🌱 I’m currently learning **AI, LLM, python, React**

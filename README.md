@@ -25,8 +25,6 @@
   </a></p><a
     href="http://www.github.com/jayounghoyos"><img src="https://github-readme-stats.vercel.app/api?username=jayounghoyos&show_icons=true&hide=&count_private=true&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="jayounghoyos's GitHub stats" /></a><a href="https://github.com/jayounghoyos" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayounghoyos&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayounghoyos&" alt="jayounghoyos" /></p>
-
 <!--- stats (end) -->
 
 

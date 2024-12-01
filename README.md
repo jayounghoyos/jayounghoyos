@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI, LLM, python, React**
 
-- 👨‍💻 All of my projects are available at [https://jayounghoyos.github.io/Portfolio/](portafolio-web-nine-lyart.vercel.app)
+- 👨‍💻 All of my projects are available at [portafolio-web-nine-lyart.vercel.app](portafolio-web-nine-lyart.vercel.app)
 
 - 📫 How to reach me **juanandresyounghoyos@gmail.com**
 

@@ -19,14 +19,13 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bootstrap,c,cpp,cmake,css,discord,docker,figma,github,gmail,html,java,js,latex,linux,mongodb,mysql,notion,obsidian,py,r,replit,ts,vim,vscode,windows" />
   </a>
+</p
+<summary>Github Stats ⚡</summary>
+<p align="center">
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jayounghoyos&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayounghoyos&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 </p>
-<p align="left">
-  <p> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 <!--- stats (end) -->
 
-<summary>Github Stats ⚡</summary>
-
-<a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jayounghoyos&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>
-<a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayounghoyos&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a>
 
 

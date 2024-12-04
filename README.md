@@ -20,10 +20,6 @@
     <img alt="Instagram"
       src="https://img.shields.io/badge/jayounghoyos%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
   </a> 
-  <a href="https://gist.github.com/jayounghoyos/d062cf824d5007105aa2ea32d6e988e2">
-    <img alt="Visual Studio Code"
-      src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  </a>
 </p>
 
 <!--- stats (start) -->

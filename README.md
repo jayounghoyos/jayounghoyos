@@ -12,11 +12,11 @@
 
 <h2>Connect with me</h2>
 <p>
-  <a href="https://www.linkedin.com/in/juan-andres-young-hoyos-9a3712236/">
+  <a href="https://www.linkedin.com/in/juan-andres-young-hoyos-9a3712236/"target="_blank">
     <img alt="LinkedIn"
       src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/juan_andres_young_hoyos/">
+  <a href="https://www.instagram.com/juan_andres_young_hoyos/"target="_blank">
     <img alt="Instagram"
       src="https://img.shields.io/badge/jayounghoyos%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
   </a> 

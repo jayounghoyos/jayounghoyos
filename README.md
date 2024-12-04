@@ -28,12 +28,4 @@
 <!--- stats (end) -->
 
 
-<!--- Robotics projects -->
-#This are some of my robot from competitions
-</div>
-  <img src="Screenshot from 2024-01-17 11-35-38.png">
-  <br>
-  <img src="Screenshot from 2024-01-17 11-36-45.png">
-</div>
-
 

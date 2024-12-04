@@ -10,7 +10,21 @@
 
 - 👨‍💻 All of my projects are available at [Portafolio Web](https://portafolio-web-nine-lyart.vercel.app/)
 
-- 📫 How to reach me **juanandresyounghoyos@gmail.com**
+<h2>Connect with me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/juan-andres-young-hoyos-9a3712236/">
+    <img alt="LinkedIn"
+      src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/juan_andres_young_hoyos/">
+    <img alt="Instagram"
+      src="https://img.shields.io/badge/jayounghoyos%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
+  </a> 
+  <a href="https://gist.github.com/jayounghoyos/d062cf824d5007105aa2ea32d6e988e2">
+    <img alt="Visual Studio Code"
+      src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  </a>
+</p>
 
 <!--- stats (start) -->
 <h3 align="left">Languages and Tools</h3>

@@ -19,7 +19,8 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bootstrap,c,cpp,cmake,css,discord,docker,figma,github,gmail,html,java,js,latex,linux,mongodb,mysql,notion,obsidian,py,r,replit,ts,vim,vscode,windows" />
   </a>
-</p
+</p>
+  
 <summary>Github Stats ⚡</summary>
 <p align="center">
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=jayounghoyos&theme=blueberry&count_private=true&hide_border=true&line_height=20)</a>

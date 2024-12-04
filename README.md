@@ -27,7 +27,7 @@
   
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayounghoyos\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayounghoyos&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 
 <!--- stats (end) -->

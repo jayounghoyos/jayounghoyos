@@ -24,8 +24,8 @@
 <summary>Github Stats ⚡</summary>
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=jayounghoyos&include_all_commits=true&hide_border=true&show_icons=true&rank_icon=percentile&card_width=350&exclude_repo=github-readme-stats&theme=onedark&line_height=30&custom_title=jayounghoyos%27s+Github+stats" alt="GitHub Stats"/>
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayounghoyos&layout=donut&langs_count=10&hide_title=true&role=owner,collaborator&theme=onedark&card_width=300&hide_border=true&custom_title=jayounghoyos%27s+Language+stats&hide=html,css,shell" alt="Top Languages"/></p>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?jayounghoyos=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tandpfun&layout=compact&theme=blueberry&count_private=true&hide_border=true)</a> 
+</p>
 <!--- stats (end) -->
 
 

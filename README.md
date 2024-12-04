@@ -25,9 +25,9 @@
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=jayounghoyos&include_all_commits=true&hide_border=true&show_icons=true&rank_icon=percentile&card_width=350&exclude_repo=github-readme-stats&theme=onedark&line_height=30&custom_title=jayounghoyos%27s+Github+stats" alt="GitHub Stats"/>
   
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayounghoyos&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jayounghoyos&layout=compact&theme=blueberry&count_private=true&hide_border=true)
 
 
 <!--- stats (end) -->

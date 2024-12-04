@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AI, LLM, python, React**
 
-- 👨‍💻 All of my projects are available at [Portafolio Web](https://portafolio-web-nine-lyart.vercel.app/)
+- 👨‍💻 All of my best projects are available at [Portafolio Web](https://portafolio-web-nine-lyart.vercel.app/)
 
 <h2>Connect with me</h2>
 <p>
@@ -26,7 +26,7 @@
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,js,arduino,bash,bootstrap,css,,mongodb,mysql,discord,figma,github,html,latex,linuxnotion,replit,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,js,bash,bootstrap,css,arduino,mongodb,mysql,discord,figma,github,html,latex,linuxnotion,replit,vscode" />
   </a>
 </p>
   

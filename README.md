@@ -26,7 +26,7 @@
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arch,arduino,bash,bootstrap,c,cpp,cmake,css,discord,figma,github,html,js,latex,linux,mongodb,mysql,notion,py,replit,vscode" />
+    <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,js,arduino,bash,bootstrap,css,,mongodb,mysql,discord,figma,github,html,latex,linuxnotion,replit,vscode" />
   </a>
 </p>
   

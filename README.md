@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Juan Andrés Young Hoyos</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
-<h4>Im a curious person interested in the robotics projects, programing and AI. specially arduino and AI problem solvers </h4>
+<h4>I'm a curious person interested in robotic projects, programming and AI. </h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jayounghoyos&label=Profile%20views&color=0e75b6&style=flat" alt="jayounghoyos" /> </p>
 

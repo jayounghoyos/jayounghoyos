@@ -1,45 +1,47 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Juan%20Andr%C3%A9s%20Young%20Hoyos&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20AI%20%26%20Robotics&descAlignY=58&descSize=16" alt="Juan Andrés Young Hoyos" width="100%" />
-
-<a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/juan-andres-young-hoyos-9a3712236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/juan_andres_young_hoyos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<img src="https://komarev.com/ghpvc/?username=jayounghoyos&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
-
-</div>
-
----
-
-### About me
-
-Frontend developer from **Colombia** 🇨🇴, curious about where software meets the physical world: robotics, programming and artificial intelligence.
-
-- 🔭 **Focus:** building clean, fast web interfaces with React
-- 🌱 **Learning:** AI, large language models and Python for machine learning
-- 🤖 **Interests:** robotics, embedded systems and AI-powered products
-- 💼 **Projects:** see my best work on my [portfolio](https://portafolio-web-nine-lyart.vercel.app/)
-
-### Tech stack
+<a href="https://portafolio-web-nine-lyart.vercel.app/">
+  <img src="assets/hero.gif" alt="Juan Andrés Young Hoyos: ML and Robotics Engineer. My four-motor chassis assembling from its Onshape CAD." width="100%" />
+</a>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,react,nextjs,tailwind,html,css,arduino,raspberrypi&perline=12" alt="Languages and frameworks" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=ros,pytorch,linux,bash,git,github,docker,mongodb,mysql,figma,vscode,latex&perline=12" alt="Tools" />
+  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d0c08?style=for-the-badge&logo=vercel&logoColor=c8d958" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/juan-andres-young-hoyos-9a3712236/"><img src="https://img.shields.io/badge/LinkedIn-0d0c08?style=for-the-badge&logo=linkedin&logoColor=c8d958" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/juan_andres_young_hoyos/"><img src="https://img.shields.io/badge/Instagram-0d0c08?style=for-the-badge&logo=instagram&logoColor=c8d958" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=jayounghoyos&label=Profile%20views&color=c8d958&style=for-the-badge" alt="Profile views" />
 </p>
 
-### GitHub activity
+<br/>
+
+**Computer Science student at EAFIT University, working at the intersection of machine learning and robotics.** Most of what I build starts as a question about how a physical thing should behave, and ends as code, a circuit, or something that rolls. Day job at **Robot.com**; nights spent on CAD, controllers and learning policies.
+
+<br/>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/metrics.svg" alt="GitHub metrics" />
+  <img src="assets/arm.gif" alt="SO-101 robot arm, my LeRobot training rig, moving through its six joints" width="49%" />
+  <img src="assets/processes.svg" alt="Running processes: building a four-motor vehicle, studying transformers and SLAM, training an SO-101 arm with LeRobot" width="49%" />
 </p>
+
+<br/>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/github-snake.svg" />
-    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/github-snake.svg" />
-  </picture>
+  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="assets/obj-01.svg" alt="Higiea: autonomous UV-C disinfection robot, 2021" width="49%" /></a>
+  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="assets/obj-02.svg" alt="Magneto Ads: job-recommendation ML MVP, 2024" width="49%" /></a>
+  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="assets/obj-03.svg" alt="Claw Robot: competition claw arm, 2022" width="49%" /></a>
+  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="assets/obj-04.svg" alt="Xbox-controlled Raspberry Pi car, 2023" width="49%" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="" />
+<br/>
+
+<p align="center">
+  <img src="assets/toolchain.svg" alt="Tools: Python, TypeScript, C++, PyTorch, TensorFlow, ROS, LeRobot, Onshape, Arduino, Raspberry Pi, Next.js, React, Docker, Linux" width="100%" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=py,ts,cpp,pytorch,tensorflow,ros,arduino,raspberrypi,nextjs,react,docker,linux&theme=dark&perline=12" alt="Skill icons" />
+</p>
+
+<br/>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/stats.svg" alt="GitHub telemetry" width="100%" />
+  <img src="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/snake.svg" alt="Contribution snake" width="100%" />
+</p>
+
+<img src="assets/footer.svg" alt="" width="100%" />

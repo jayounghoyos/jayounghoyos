@@ -1,9 +1,12 @@
 <a href="https://portafolio-web-nine-lyart.vercel.app/">
+  <img src="assets/portfolio.svg" alt="Projects, CAD and write-ups live on my portfolio: portafolio-web-nine-lyart.vercel.app" width="100%" />
+</a>
+
+<a href="https://portafolio-web-nine-lyart.vercel.app/">
   <img src="assets/hero.gif" alt="Juan Andrés Young Hoyos: ML and Robotics Engineer. My four-motor chassis assembling from its Onshape CAD." width="100%" />
 </a>
 
 <p align="center">
-  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0d0c08?style=for-the-badge&logo=vercel&logoColor=c8d958" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/juan-andres-young-hoyos-9a3712236/"><img src="https://img.shields.io/badge/LinkedIn-0d0c08?style=for-the-badge&logo=linkedin&logoColor=c8d958" alt="LinkedIn" /></a>
   <a href="https://www.instagram.com/juan_andres_young_hoyos/"><img src="https://img.shields.io/badge/Instagram-0d0c08?style=for-the-badge&logo=instagram&logoColor=c8d958" alt="Instagram" /></a>
   <img src="https://komarev.com/ghpvc/?username=jayounghoyos&label=Profile%20views&color=c8d958&style=for-the-badge" alt="Profile views" />
@@ -23,18 +26,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="assets/obj-01.svg" alt="Higiea: autonomous UV-C disinfection robot, 2021" width="49%" /></a>
-  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="assets/obj-02.svg" alt="Magneto Ads: job-recommendation ML MVP, 2024" width="49%" /></a>
-  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="assets/obj-03.svg" alt="Claw Robot: competition claw arm, 2022" width="49%" /></a>
-  <a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="assets/obj-04.svg" alt="Xbox-controlled Raspberry Pi car, 2023" width="49%" /></a>
-</p>
-
-<br/>
-
-<p align="center">
-  <img src="assets/toolchain.svg" alt="Tools: Python, TypeScript, C++, PyTorch, TensorFlow, ROS, LeRobot, Onshape, Arduino, Raspberry Pi, Next.js, React, Docker, Linux" width="100%" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=py,ts,cpp,pytorch,tensorflow,ros,arduino,raspberrypi,nextjs,react,docker,linux&theme=dark&perline=12" alt="Skill icons" />
+  <img src="assets/toolchain.svg" alt="What the machines are built with. Machine learning: PyTorch, TensorFlow, scikit-learn, NumPy, OpenCV. Robotics: ROS, LeRobot, Onshape, Arduino, Raspberry Pi. Languages: Python, C++, TypeScript, Java, SQL. Web: Next.js, React, Node, Tailwind, Vercel. Infrastructure: Docker, Postgres, Linux, GitHub Actions." width="100%" />
 </p>
 
 <br/>

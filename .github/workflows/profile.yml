@@ -1,0 +1,43 @@
+name: Profile telemetry
+
+on:
+  schedule:
+    - cron: "17 5 * * *" # daily, 00:17 Bogotá
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [scripts/stats.py, .github/workflows/profile.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Stats card
+        continue-on-error: true
+        run: python3 scripts/stats.py
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_USER: ${{ github.repository_owner }}
+          OUT: dist/stats.svg
+
+      - name: Contribution snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#c8d958&color_dots=#1c1911,#3b3d1e,#6b7a2a,#9db23f,#c8d958&color_dot_border=#0d0c08&color_background=#0d0c08
+
+      - name: Publish to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

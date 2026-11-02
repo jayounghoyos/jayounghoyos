@@ -1,45 +1,45 @@
-<h1 align="center">Hi 👋, I'm Juan Andrés Young Hoyos</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
-<h4>I'm a curious person interested in robotic projects, programming and AI. </h4>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jayounghoyos&label=Profile%20views&color=0e75b6&style=flat" alt="jayounghoyos" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=180&section=header&text=Juan%20Andr%C3%A9s%20Young%20Hoyos&fontSize=40&fontColor=ffffff&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20AI%20%26%20Robotics&descAlignY=58&descSize=16" alt="Juan Andrés Young Hoyos" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jayounghoyos" alt="jayounghoyos" /></a> </p>
+<a href="https://portafolio-web-nine-lyart.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/juan-andres-young-hoyos-9a3712236/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.instagram.com/juan_andres_young_hoyos/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<img src="https://komarev.com/ghpvc/?username=jayounghoyos&label=Profile%20views&color=2563EB&style=for-the-badge" alt="Profile views" />
 
-- 🌱 I’m currently learning **AI, LLM, python, React**
+</div>
 
-- 👨‍💻 All of my best projects are available at [Portafolio Web](https://portafolio-web-nine-lyart.vercel.app/)
+---
 
-<h2>Connect with me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/juan-andres-young-hoyos-9a3712236/"target="_blank">
-    <img alt="LinkedIn"
-      src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/juan_andres_young_hoyos/"target="_blank">
-    <img alt="Instagram"
-      src="https://img.shields.io/badge/jayounghoyos%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a> 
-</p>
+### About me
 
-<!--- stats (start) -->
-<h2 align="center">Languages and Tools</h2>
+Frontend developer from **Colombia** 🇨🇴, curious about where software meets the physical world: robotics, programming and artificial intelligence.
+
+- 🔭 **Focus:** building clean, fast web interfaces with React
+- 🌱 **Learning:** AI, large language models and Python for machine learning
+- 🤖 **Interests:** robotics, embedded systems and AI-powered products
+- 💼 **Projects:** see my best work on my [portfolio](https://portafolio-web-nine-lyart.vercel.app/)
+
+### Tech stack
+
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,cmake,js,bash,bootstrap,css,arduino,mongodb,mysql,discord,figma,github,html,latex,linux,notion,replit,vscode" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=py,cpp,c,js,ts,react,nextjs,tailwind,html,css,arduino,raspberrypi&perline=12" alt="Languages and frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=ros,pytorch,linux,bash,git,github,docker,mongodb,mysql,figma,vscode,latex&perline=12" alt="Tools" />
 </p>
-  
-<summary>Github Stats ⚡</summary>
+
+### GitHub activity
+
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=jayounghoyos&include_all_commits=true&hide_border=true&show_icons=true&rank_icon=percentile&card_width=350&exclude_repo=github-readme-stats&theme=onedark&line_height=30&custom_title=jayounghoyos%27s+Github+stats" alt="GitHub Stats"/>
-  
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayounghoyos&layout=donut&langs_count=5&hide_title=true&role=owner,collaborator&theme=onedark&card_width=300&hide_border=true&custom_title=SantiGomez2519%27s+Language+stats&hide=html,css,shell" alt="Top Languages"/>
+  <img src="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/metrics.svg" alt="GitHub metrics" />
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/github-snake.svg" />
+  </picture>
+</p>
 
-
-<!--- stats (end) -->
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:0F172A&height=100&section=footer" width="100%" alt="" />

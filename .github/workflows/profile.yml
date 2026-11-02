@@ -6,10 +6,14 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [scripts/stats.py, .github/workflows/profile.yml]
+    paths: [scripts/stats.py, scripts/activity.py, scripts/profile_kit.py, .github/workflows/profile.yml]
 
 permissions:
   contents: write
+
+concurrency:
+  group: profile-telemetry
+  cancel-in-progress: false
 
 jobs:
   build:
@@ -17,13 +21,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Stats card
-        continue-on-error: true
-        run: python3 scripts/stats.py
+      # Each card falls back to the copy already on the output branch, so one failed
+      # API call never publishes a branch with a missing image.
+      - name: Generated cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USER: ${{ github.repository_owner }}
-          OUT: dist/stats.svg
+        run: |
+          mkdir -p dist
+          git fetch --depth=1 origin output || echo "::warning::no output branch yet"
+          for card in stats activity; do
+            if OUT="dist/$card.svg" python3 "scripts/$card.py"; then
+              continue
+            fi
+            echo "::warning::$card.py failed; keeping the last published $card.svg"
+            git show "origin/output:$card.svg" > "dist/$card.svg" || { echo "::error::no previous $card.svg"; exit 1; }
+          done
 
       - name: Contribution snake
         uses: Platane/snk@v3
@@ -31,6 +44,12 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?color_snake=#c8d958&color_dots=#1c1911,#3b3d1e,#6b7a2a,#9db23f,#c8d958&color_dot_border=#0d0c08&color_background=#0d0c08
+
+      - name: Check every card exists
+        run: |
+          for f in stats activity snake; do
+            test -s "dist/$f.svg" || { echo "::error::dist/$f.svg is missing"; exit 1; }
+          done
 
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4

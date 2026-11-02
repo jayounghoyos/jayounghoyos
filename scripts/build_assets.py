@@ -12,12 +12,11 @@ import re
 import urllib.request
 from pathlib import Path
 
+from profile_kit import ACC, BG, INK, MUTED, PANEL, SANS
+
 ROOT = Path(__file__).resolve().parent.parent
 ICONS = "https://cdn.jsdelivr.net/npm/simple-icons@13.21.0/icons/{}.svg"
 
-# Palette shared with stats.py and the other panels.
-BG, PANEL, INK, MUTED, ACC = "#0d0c08", "#16140d", "#efe7d7", "#a9a18f", "#c8d958"
-SANS = "Inter,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
 
 PORTFOLIO_URL = "portafolio-web-nine-lyart.vercel.app"
 

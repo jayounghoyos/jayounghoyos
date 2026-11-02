@@ -26,6 +26,12 @@
 <br/>
 
 <p align="center">
+  <a href="https://github.com/jayounghoyos?tab=repositories"><img src="https://raw.githubusercontent.com/jayounghoyos/jayounghoyos/output/activity.svg" alt="Latest on the bench: my most recently pushed repositories, refreshed every night" width="100%" /></a>
+</p>
+
+<br/>
+
+<p align="center">
   <img src="assets/toolchain.svg" alt="What the machines are built with. Machine learning: PyTorch, TensorFlow, scikit-learn, NumPy, OpenCV. Robotics: ROS, LeRobot, Onshape, Arduino, Raspberry Pi. Languages: Python, C++, TypeScript, Java, SQL. Web: Next.js, React, Node, Tailwind, Vercel. Infrastructure: Docker, Postgres, Linux, GitHub Actions." width="100%" />
 </p>
 
